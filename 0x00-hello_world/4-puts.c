@@ -1,13 +1,12 @@
-#include <stdio.h>	
-/**	
- * main - Entry point	
- * description - Write a C program that prints exactly		
- *	
- * Return: Always 0 (Success)		
- */	
-int main(void)	
+#include <stdio.h>
+/**
+ * main - A program that prints a line with puts functio
+n
+ * Return: 0 (Success)
+ */
+int main(void)
 {
         puts("\"Programming is like building a multilingual puzzle");
 
         return (0);
-)
+}
