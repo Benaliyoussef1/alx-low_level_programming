@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdio.h>	
 /**	
- * main - 4-puts.c	
- * description - Write a C program that prints exactly	
+ * main - Entry point	
+ * description - Write a C program that prints exactly		
  *	
- * Return: Always 0 (Success)	
+ * Return: Always 0 (Success)		
  */	
-int main(void)
+int main(void)	
 {
         puts("\"Programming is like building a multilingual puzzle");
 
