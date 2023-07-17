@@ -1,1 +1,2 @@
-0x00. C - Hello, World
+#!/bin/bash
+hello world
